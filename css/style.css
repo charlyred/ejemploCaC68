@@ -1,0 +1,307 @@
+h2	{
+	color: gold;
+}
+#apr {
+	position: fixed;
+	top: 0px;
+	left: 10px;
+}
+#head {
+	color: lightblue;
+	position: fixed;
+	text-align: center;
+	background-color: #221D2D;
+	width: 100%;
+	height: 50px;
+	margin: -7px;
+	padding: 20px;
+	top: -3px;
+}
+#feed {
+	color: lightblue;
+	position: relative;
+	text-align: center;
+	background-color: #221D2D;
+	top: 52px;	
+	width: 30%;
+	height: 200px;
+	left: 1px;
+}
+#container {
+	position: relative;
+	left: 30%;
+	width: 200px;
+    height: 200px;
+}
+.pool {
+	position: relative;
+	top: -148px;
+	width: 200px;
+    height: auto;
+    min-height: 100%;
+    min-width: 100%;
+}
+#feed2 {
+	color: lightblue;
+	position: relative;
+	text-align: center;
+	background-color: #221D2D;
+	width: 30%;
+	height: 200px;
+	left: 1px;
+	top: -155px;
+}
+#container2 {
+	position: relative;	
+	left: 30%;
+	width: 200px;
+    height: 100px;	
+}
+.luci {
+	position: relative;
+	width: 200px;
+    height: 200px;
+    top: -355px;
+}
+#feed3 {
+	color: lightblue;
+	position: relative;
+	text-align: center;
+	background-color: #221D2D;
+	width: 30%;
+	height: 190px;
+	left: 1px;
+	top: -262px;
+}
+#container3 {
+	position: relative;
+	left: 30%;
+	width: 200px;
+    height: 200px;
+}
+.juma {
+	position: relative;
+	width: 200px;
+    height: 191px;
+    top: -453px;
+    min-height: 100%;
+    min-width: 100%;
+}
+#feed4 {
+	color: lightblue;
+	position: relative;
+	text-align: center;
+	background-color: #221D2D;
+	width: 30%;
+	height: 190px;
+	left: 1px;
+	top: -470px;
+}
+#container4 {
+	position: relative;
+	left: 30%;
+	width: 200px;
+    height: 200px;
+}
+.incr {
+	color: lightblue;
+	position: relative;
+	text-align: center;
+	background-color: #221D2D;
+	width: 100%;
+	height: 190px;
+	left: 1px;
+	top: -660px;
+}
+#feed5 {
+	color: lightblue;
+	position: relative;
+	text-align: center;
+	background-color: #221D2D;
+	width: 30%;
+	height: 190px;
+	left: 1px;
+	top: -680px;
+}
+#container5 {
+	position: relative;
+	left: 30%;
+	width: 200px;
+    height: 200px;
+}
+.reasons {
+	color: lightblue;
+	position: relative;
+	text-align: center;
+	background-color: #221D2D;
+	width: 100%;
+	height: 190px;
+	left: 1px;
+	top: -870px;
+}
+#feed6 {
+	color: lightblue;
+	position: relative;
+	text-align: center;
+	background-color: #221D2D;
+	width: 30%;
+	height: 190px;
+	left: 1px;
+	top: -890px;
+}
+#container6 {
+	position: relative;
+	left: 30%;
+	width: 200px;
+    height: 200px;
+}
+.gaga {
+	color: lightblue;
+	position: relative;
+	text-align: center;
+	background-color: #221D2D;
+	width: 100%;
+	height: 190px;
+	left: 1px;
+	top: -1080px;
+}
+#peliculas {
+	text-align: center;
+	color: lightblue;
+	position: fixed;
+	right: 70px;
+	top: 85px;
+	background-color: #008B8B;
+	width: 200px;
+	height: 60px;
+	margin: 0px;
+	padding: 0px;
+	border: 4px dotted blue;
+}
+#series {
+	text-align: center;
+	color: lightblue;
+	position: fixed;
+	right: 70px;
+	top: 160px;
+	background-color: #008B8B;
+	width: 200px;
+	height: 60px;
+	margin: 0px;
+	padding: 0px;
+	border: 4px dotted blue;
+}
+#noticias {
+	text-align: center;
+	color: lightblue;
+	position: fixed;
+	right: 70px;
+	top: 235px;
+	background-color: #008B8B;
+	width: 200px;
+	height: 60px;
+	margin: 0px;
+	padding: 0px;
+	border: 4px dotted blue;
+}	
+#izquierda {
+	position: absolute;
+	top: 50px;
+}
+#deadvid {
+	position: absolute;
+	left: 10px;
+	bottom: -1100px;
+	width: 200px;
+	height: 60px;
+}
+#jumavid {
+	position: absolute;
+	left: 440px;
+	bottom: -1100px;
+	width: 200px;
+	height: 60px;
+}
+#incrvid {
+	position: absolute;
+	left: 870px;
+	bottom: -1100px;
+	width: 200px;
+	height: 60px;
+}
+#avengers2{
+	position: absolute;
+	left: 10px;
+	bottom: -1450px;
+	width: 200px;
+	height: 60px;
+}
+#darkkni {
+	position: absolute;
+	left: 440px;
+	bottom: -1450px;
+	width: 200px;
+	height: 60px;
+}
+#madmax {
+	position: absolute;
+	left: 870px;
+	bottom: -1450px;
+	width: 200px;
+	height: 60px;
+}
+#reasonsvid {
+	position: absolute;
+	left: 10px;
+	bottom: -2400px;
+	width: 200px;
+	height: 60px;
+}
+#lucivid {
+	position: absolute;
+	left: 440px;
+	bottom: -2400px;
+	width: 200px;
+	height: 60px;
+}
+#gamevid {
+	position: absolute;
+	left: 870px;
+	bottom: -2400px;
+	width: 200px;
+	height: 60px;
+}
+#vikings {
+	position: absolute;
+	left: 870px;
+	bottom: -2050px;
+	width: 200px;
+	height: 60px;
+}
+#sons {
+	position: absolute;
+	left: 440px;
+	bottom: -2050px;
+	width: 200px;
+	height: 60px;
+}
+#fullmet {
+	position: absolute;
+	left: 10px;
+	bottom: -2050px;
+	width: 200px;
+	height: 60px;
+}
+body {
+	background-image: url(http://www.imgworlds.com/wp-content/uploads/2015/11/novocinema1.jpg);
+	background-position: center;
+    background-attachment: fixed;	
+	overflow: auto;
+	height: 100%;
+	width: auto;
+}
+footer {
+	right: 5px;
+	position: fixed;
+	bottom: 5px;
+	color: white;
